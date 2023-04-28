@@ -11,10 +11,9 @@ JavaScript-Capstone
 
 # Description
 
-The JavaScript capstone project is about building our own web application based on an external API. we were select an API that provides data about a topic that you like and then build the webapp around it. The webapp have 2 user interfaces 
+The main objective of the JavaScript capstone project is to create a personalized web application utilizing an external API. The API selected by each individual student will provide information regarding a specific subject of their choice, which will then be incorporated into the development of the web application. Additionally, the web application will consist of two different user interfaces.
 
-A home page showing a list of items that you can "like."
-A popup window with more data about an item that you can use to comment on it or reserve it for a period of time.
+The website's main page displays a selection of items that you have the option to "like." Also, there is a popup window available that provides additional details about each item, enabling you to leave a comment or reserve the item for a specified duration.
 
 ## Built With
 - HTML, CSS, JavaScript
