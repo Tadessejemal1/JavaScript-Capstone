@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Project Name
 
->JavaScript-Capstone
+JavaScript-Capstone
 
 ## Live Demo
 [live demo](https://kumilachew-g.github.io/JavaScript-Capstone/dist/)
@@ -11,7 +11,7 @@
 
 # Description
 
-> The JavaScript capstone project is about building our own web application based on an external API. we were select an API that provides data about a topic that you like and then build the webapp around it. The webapp have 2 user interfaces 
+The JavaScript capstone project is about building our own web application based on an external API. we were select an API that provides data about a topic that you like and then build the webapp around it. The webapp have 2 user interfaces 
 
 A home page showing a list of items that you can "like."
 A popup window with more data about an item that you can use to comment on it or reserve it for a period of time.
